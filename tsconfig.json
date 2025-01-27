@@ -20,6 +20,7 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@/fonts" :["app/ui/font"],
       "@/*": ["./*"]
     }
   },
